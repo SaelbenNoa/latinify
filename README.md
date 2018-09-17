@@ -13,14 +13,14 @@ Works when you load any page that contains Cyrillic alphabet, by automiatically 
 
 Cyrillic alphabets supported:
 ----------------------------
-*Belarus
-*Bulgaria
-*Kazakstan
-*Kyrgyzstan
-*Macedonia
-*Mongolia
-*Montenegro
-*Russia
-*Serbia
-*Tajikistan
-*Ukraine
+* Belarus
+* Bulgaria
+* Kazakstan
+* Kyrgyzstan
+* Macedonia
+* Mongolia
+* Montenegro
+* Russia
+* Serbia
+* Tajikistan
+* Ukraine
