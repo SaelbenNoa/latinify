@@ -1,5 +1,5 @@
 # latinify
-![banner]https://i.imgur.com/fOzUCKv.png)
+![banner](latinify/latinifyGithub.png)
 Chrome Extension that converts any Cyrillic letters to Latin ones.
 
 Supports every Cyrillic alphabet (Slavic and non-Slavic)!
