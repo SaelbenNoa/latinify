@@ -15,7 +15,7 @@ Cyrillic alphabets supported:
 ----------------------------
 * Belarus
 * Bulgaria
-* Kazakstan
+* Kazakhstan
 * Kyrgyzstan
 * Macedonia
 * Mongolia
