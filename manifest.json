@@ -1,10 +1,10 @@
 {
-  "name": "Latinify Firefox",
+  "name": "Latinify Reborn",
   "author": "SaelbenNoa and oreoadidas",
   "homepage_url": "https://github.com/SaelbenNoa/latinify",
   "version": "1.1",
   "manifest_version": 2,
-  "description": "A port of the Latinify Chrome extension, now on Chrome!\nConverting cyrillic to latinic for the purpose of easier reading!",
+  "description": "A port of the Latinify Chrome extension, now on Firefox!\nConverting cyrillic to latinic for the purpose of easier reading!",
   "icons": {
     "48": "latinify48.png",
     "96": "latinify96.png"
