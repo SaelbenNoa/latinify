@@ -1,13 +1,14 @@
 # Latinify
 ![banner](images/latinifyGithub.png)
-Chrome Extension that converts any Cyrillic letters to Latin ones.
+Chrome and Firefox Extension that converts any Cyrillic letters to Latin ones.
 Supports every Cyrillic alphabet (Slavic and non-Slavic)!
+
 
 Port Notes:
 ------
 * Added refresh functionality to make the add-on/extension behave well on dynamic websites
 * Added slavic version, which uses č, ć, đ, š and ž, instead of ch, sh, etc
-* Thanks to oreoadidas for the original addon
+* Port and updates by SaelbenNoa, original by oreoadidas
 
 How it works:
 ------
