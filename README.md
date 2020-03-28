@@ -12,11 +12,24 @@ Port Notes:
 
 How it works:
 ------
-[Install by adding it](https://chrome.google.com/webstore/detail/latinify/clhcmoeloccdehioknhbbdokpkceaoha/overview) to your Chrome.
-
 Works when you load any page that contains Cyrillic alphabet, by automiatically converting it to Latin.
 
 ![use](/images/1280x800.png)
+
+Installation instructions:
+----------------
+*Firefox*
+
+Simply install from the Firefox Add-On store!
+[LatinifyReborn](https://addons.mozilla.org/en-US/firefox/addon/noa-jeli%C4%87-mato%C5%A1evi%C4%87/?src=search)
+[LatinifyRebornSlavic](https://addons.mozilla.org/en-US/firefox/addon/latinify-reborn-slavic/?src=search)
+
+*Chrome*
+
+Download the ZIP file to your computer.
+Open your Google Chrome web browser.
+Go to chrome://extensions/ and check the box for Developer mode in the top right.
+Drag and drop the downloaded ZIP into the page.
 
 Cyrillic alphabets supported:
 ----------------------------
