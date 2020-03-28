@@ -5,7 +5,7 @@ Supports every Cyrillic alphabet (Slavic and non-Slavic)!
 
 How it works:
 ------
-Works when you load any page that contains Cyrillic alphabet, by automiatically converting it to Latin.
+Works when you load any page that contains Cyrillic alphabet, by automatically converting it to Latin.
 
 ![use](/images/1280x800.png)
 
